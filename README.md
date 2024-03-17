@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Search your Favourite GAME OF THRONES Characters
+
+##Tech stacks used - Reactjs, Axios, CSS
+
+##Layout
+
+![image](https://github.com/ananysagar/GOT-Characters/assets/39479521/8ca8a8c0-ee83-4559-ab7c-cb483ddb314d)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
