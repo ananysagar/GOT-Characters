@@ -3,6 +3,8 @@
 **Tech stacks used** - Reactjs, Axios, CSS
 
 **Project is live here: https://got-characters-xi.vercel.app/**
+
+
 **Layout**
 
 ![image](https://github.com/ananysagar/GOT-Characters/assets/39479521/8ca8a8c0-ee83-4559-ab7c-cb483ddb314d)
